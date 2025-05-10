@@ -1,6 +1,6 @@
 # Analyzing-the-Performance-of-Major-Industries-ETF-1998-to-Present
 ## Overview
-A study of how six major sector ETFs—Technology, Energy, Financials, Industrials, Healthcare, and Real Estate—have performed through major macroeconomic cycles.
+A study of how six major industry ETFs, Technology, Energy, Financials, Industrials, Healthcare, and Real Estate, have performed through major macroeconomic cycles.
 ## Key Questions: 
 1. Which industry outperforms during periods of economic downturn (e.g., 2008 financial crisis, COVID-19 crash, recent inflation surge)?
 2. Which industries are the most resilient during economic shocks? Which ones experience the worst drawdowns?
